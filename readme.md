@@ -26,6 +26,8 @@ Repo ini berisi implementasi dari kelas [Android Basic With Kotlin](https://clas
   * Day 4 - Implementasi Coroutines & Paging pada Android
   
   
+### API Example
+  * Example : http://classico.id:1103/covid/
 ### Tools
   * IDE
     * [Android Studio](https://developer.android.com/studio?hl=id)
