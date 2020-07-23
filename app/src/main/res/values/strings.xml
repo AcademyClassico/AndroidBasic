@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoronaApps</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="last_updated">Terakhir di update %1$s</string>
+    <string name="main_header">Update kasus covid-19</string>
+    <string name="district">Kecamatan</string>
+    <string name="positive">Positif</string>
+    <string name="recovered">Pulih</string>
+    <string name="dead">Wafat</string>
+    <string name="information_header">Informasi seputar covid-19</string>
+</resources>

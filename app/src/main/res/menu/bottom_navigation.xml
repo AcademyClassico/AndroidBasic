@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_list"
+        android:icon="@drawable/ic_list_black"
+        android:title="Daftar" />
+
+    <item
+        android:id="@+id/menu_info"
+        android:icon="@drawable/ic_information_black"
+        android:title="Informasi" />
+</menu>
